@@ -28,3 +28,8 @@
 ## Arquitetura
 
 - Optei por uma arquitetura monolítica nesta aplicação por ser apenas uma prova de conceito. O uso de microserviços, embora benéfico para grandes sistemas distribuídos, adicionaria uma complexidade desnecessária a um projeto de pequena escala como este. A simplicidade de uma arquitetura monolítica permite um desenvolvimento mais rápido e uma manutenção mais fácil, o que é ideal para o propósito atual. 
+
+## Observações
+
+- Esta é minha primeira vez trabalhando em um projeto com Kotlin, e achei a sintaxe bastante interessante e intuitiva.
+- Como este é um projeto de teste utilizando um banco de dados H2 em memória, optei por não codificar a senha dos usuários. Em um ambiente de produção, a segurança seria uma prioridade e todas as senhas seriam devidamente codificadas.
