@@ -31,5 +31,5 @@
 
 ## Observações
 
-- Esta é minha primeira vez trabalhando em um projeto com Kotlin, e achei a sintaxe bastante interessante e intuitiva.
+- Esta é minha primeira vez trabalhando em um projeto com Kotlin, e achei a sintaxe bastante interessante e intuitiva. Ter uma experiência com Spring Boot utilizando Java facilitou demais o processo de aprendizagem.
 - Como este é um projeto de teste utilizando um banco de dados H2 em memória, optei por não codificar a senha dos usuários. Em um ambiente de produção, a segurança seria uma prioridade e todas as senhas seriam devidamente codificadas.
